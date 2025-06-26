@@ -36,21 +36,21 @@ This is a multi-user Todo List application built with Next.js. The app allows mu
 - ALWAYS document the conversations between you and the user in docs/scratch-pad folder inside the project directory and keep it updated
 - ALWAYS write a test and run the test against your code before you commit the changes
 - Its very important to keep the code structure clean and properly documented
-- Code must always be writen to be highly performant, highly available and highly secure
-- Always follow the strict coding styles and best practices of the programing language being used
+- Code must always be written to be highly performant, highly available and highly secure
+- Always follow the strict coding styles and best practices of the programming language being used
 - ALWAYS document any unusual behavior, edge cases, or implementation quirks encountered during code creation
 - Keep your work focused and modular to fit comfortably within the context window
-- ALWAYS be granular with his to dos. Instead of "style the navbar," do something like "change height from 60px to 80px," "reduce padding-top from 16px to 12px," "adjust background from #ffffff to rgba(255,255,255,0.95)."
+- ALWAYS be granular with your to-dos. Instead of "style the navbar," do something like "change height from 60px to 80px," "reduce padding-top from 16px to 12px," "adjust background from #ffffff to rgba(255,255,255,0.95)."
 - When asked to perform a task, ALWAYS PLAN and think harder before you start refactoring or writing new code
 - ALWAYS Structure code into lean, focused modules that can be selectively read
-- Before you commit code and push, ALWAYS check for icons and emojies in code and documentation and remove the icons and emojies.
+- Before you commit code and push, ALWAYS check for icons and emojis in code and documentation and remove the icons and emojis.
 - Before you push code, remove the Co-Authored-By line in commit messages
 - ALWAYS think about potential security vulnerabilities in your code before you write and commit
 - ALWAYS add JSDoc comments in your code
 - If you are in doubt suggest a few ways to solve the problem and ask for my opinion.
 - DON'T write code with linting errors and warnings that will fail code quality test
 - ALWAYS  write code that is properly linted and formatted using eslint and prettier
-- ALWAYS avoid dupicate code, files and folders in nested trees
+- ALWAYS avoid duplicate code, files and folders in nested trees
 - All project related test scripts and results should ALWAYS be placed in a "test" folder
 
 ## Common Development Commands
