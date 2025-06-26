@@ -43,7 +43,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - ALWAYS add JSDoc comments in your code
 - If you are in doubt suggest a few ways to solve the problem and ask for my opinion.
 - DON'T write code with linting errors and warnings that will fail code quality test
-- ALWAYS  write code that is properly linted and formatted using eslint and prettier
+- ALWAYS write code that is properly linted and formatted using eslint and prettier
 - ALWAYS avoid dupicate code, files and folders in nested trees
 - All project related test scripts and results should ALWAYS be placed in a "test" folder
 

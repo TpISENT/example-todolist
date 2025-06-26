@@ -49,7 +49,7 @@ This is a multi-user Todo List application built with Next.js. The app allows mu
 - ALWAYS add JSDoc comments in your code
 - If you are in doubt suggest a few ways to solve the problem and ask for my opinion.
 - DON'T write code with linting errors and warnings that will fail code quality test
-- ALWAYS  write code that is properly linted and formatted using eslint and prettier
+- ALWAYS write code that is properly linted and formatted using eslint and prettier
 - ALWAYS avoid duplicate code, files and folders in nested trees
 - All project related test scripts and results should ALWAYS be placed in a "test" folder
 
